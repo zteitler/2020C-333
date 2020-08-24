@@ -1,0 +1,33 @@
+title: Math 584, Fall 2020
+email: "zteitler@boisestate.edu"
+description: >- # this means to ignore newlines until "baseurl:"
+  Course site for Math 333, Fall 2020, at Boise State University, taught by Zach Teitler
+url: "https://zteitler.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/2020C-333" # the subpath of your site, e.g. /blog
+#twitter_username: jekyllrb
+github_username:  zteitler
+
+repository: "zteitler/2020C-333"
+
+theme: minima
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# A list of the pages to display in the navigation bar
+header_pages:
+  - syllabus.md
+  - calendar.md
+  - assignments.md
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
