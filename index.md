@@ -14,3 +14,11 @@ Introduction to matrix algebra, determinants, eigenvalues, and solutions of line
 Laplace transforms.
 
 ### [Syllabus](syllabus)
+
+### [Course Calendar](https://zeno.boisestate.edu/classes/m333-fall2020/calendar.html)
+
+### [Daily Lessons](https://zeno.boisestate.edu/classes/m333-fall2020/lessons.html)
+
+### [WeBWorK](https://zeno.boisestate.edu/webwork2)
+
+### [Videos](https://www.youtube.com/playlist?list=PL098oyLjkc7ruRpBLA_L_m41P1-tSclTQ)
