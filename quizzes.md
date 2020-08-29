@@ -5,7 +5,7 @@ title: Quizzes
 
 ## Quizzes
 
-{% assign ql = site.quizzes | sort: "quiznum" %}
+{% assign ql = site.quizzes | where:"show","true" | sort: "quiznum" %}
 
 | **Quiz** | **Due Date** | **Solutions** |
 | :--- | :--- | :--- |
@@ -13,3 +13,6 @@ title: Quizzes
 
 | [**Quiz {{ quiz.quiznum }} Instructions**]({{site.baseurl}}{{ quiz.url }}) | {{ homework.duedate | date_to_string: "ordinal", "US"  }} |  |
 {% endfor %}
+{%- if ql.size == 0 -%}
+|   |   |   |
+{%- endif -%}

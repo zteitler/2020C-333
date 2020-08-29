@@ -3,6 +3,7 @@ layout: page
 title: Quiz 1
 quiznum: 1
 duedate: 2020-09-01
+show: false
 ---
 
 ## Quiz 1 Instructions
