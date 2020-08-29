@@ -37,6 +37,8 @@ duedate: 2020-09-01
       Then save the result as a flattened .pdf document.
     - **Typesetting Software:** Use computer software such as LaTeX or Word+MathType to type up the solutions,
       then save the result as a .pdf document.
+    - Solutions should be a single .pdf file with a filename of the form `333-quiz01-yourlastname.pdf`,
+      for example `333-quiz01-Teitler.pdf`.
 
 + When working on the quiz **students may:**
     - Discuss the questions with other students and/or the learning assistant.
