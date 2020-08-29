@@ -22,3 +22,5 @@ Laplace transforms.
 ### [WeBWorK](https://zeno.boisestate.edu/webwork2)
 
 ### [Videos](https://www.youtube.com/playlist?list=PL098oyLjkc7ruRpBLA_L_m41P1-tSclTQ)
+
+### [Quizzes](quizzes)

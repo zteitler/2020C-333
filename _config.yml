@@ -1,4 +1,4 @@
-title: Math 584, Fall 2020
+title: Math 333, Fall 2020
 email: "zteitler@boisestate.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   Course site for Math 333, Fall 2020, at Boise State University, taught by Zach Teitler
@@ -23,7 +23,15 @@ plugins:
 header_pages:
   - syllabus.md
   - calendar.md
-  - assignments.md
+  - lessons.md
+  - quizzes.md
+  - exams.md
+
+collections:
+  quizzes:
+    output: true
+  exams:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
