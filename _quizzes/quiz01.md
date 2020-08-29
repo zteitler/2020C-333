@@ -5,6 +5,7 @@ quiznum: 1
 duedate: 2020-09-01
 ---
 
+
 ## Quiz 1 Instructions
 
 + The purpose of this quiz is to support your learning by

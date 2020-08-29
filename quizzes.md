@@ -5,14 +5,20 @@ title: Quizzes
 
 ## Quizzes
 
-{% assign ql = site.quizzes | where:"show","true" | sort: "quiznum" %}
+{% assign ql = '' | split: '' %}
+{%- for q in site.quizzes -%}
+  {%- unless q.hide -%}
+    {%- assign ql = ql | push: q -%}
+  {%- endunless -%}
+{%- endfor -%}
+{%- assign ql = ql | sort: "quiznum" -%}
 
 | **Quiz** | **Due Date** | **Solutions** |
 | :--- | :--- | :--- |
 {% for quiz in ql -%}
 
-| [**Quiz {{ quiz.quiznum }} Instructions**]({{site.baseurl}}{{ quiz.url }}) | {{ homework.duedate | date_to_string: "ordinal", "US"  }} |  |
-{% endfor %}
+| [**Quiz {{ quiz.quiznum }} Instructions**]({{ quiz.url | relative_url }}) | {{ homework.duedate | date_to_string: "ordinal", "US"  }} |  |
+{%- endfor -%}
 {%- if ql.size == 0 -%}
 |   |   |   |
 {%- endif -%}
