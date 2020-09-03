@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: frontpage
 title: Math 333, Fall 2020
+coursename: Differential Equations with Matrix Theory
+featureimage: 591px-DGL_y-eq-dy.svg.png
+featureimage-alt: "vector field and flow lines"
 ---
-
-## Math 333, Fall 2020
 
 ### Course description
 
@@ -12,6 +13,8 @@ Solution of differential equations via analytic, qualitative and numerical techn
 Linear and nonlinear systems of differential equations.
 Introduction to matrix algebra, determinants, eigenvalues, and solutions of linear systems.
 Laplace transforms.
+
+
 
 ### [Syllabus](syllabus)
 
