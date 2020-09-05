@@ -17,7 +17,7 @@ title: Quizzes
 | :--- | :--- | :--- |
 {% for quiz in ql -%}
 
-| [**Quiz {{ quiz.quiznum }} Instructions**]({{ quiz.url | relative_url }}) | {{ quiz.duedate | date_to_string: "ordinal", "US"  }} | {% if quiz.solutions %}[Solutions]({{ quiz.solutions }}){% endif %} |
+| [**Quiz {{ quiz.quiznum }} Instructions**]({{ quiz.url | relative_url }}) | {{ quiz.duedate | date_to_string: "ordinal", "US"  }} | {% if quiz.solutions %}[Quiz {{quiz.quiznum}} Solutions]({{ quiz.solutions }}){% endif %} |
 {% endfor -%}
 {%- if ql.size == 0 -%}
 |   |   |   |
