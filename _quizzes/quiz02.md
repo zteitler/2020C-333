@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Quiz 1
-quiznum: 1
-duedate: 2020-09-01
-solutions: https://drive.google.com/file/d/1MgdoaJ6f3RGrg35oMm9nit52-XnZ2BPR/view?usp=sharing
+title: Quiz 2
+quiznum: 2
+duedate: 2020-09-09
 ---
 
 
-## Quiz 1 Instructions
+## Quiz 2 Instructions
 
 + The purpose of this quiz is to support your learning by
     - offering you an opportunity to demonstrate your mastery of course material
@@ -16,8 +15,8 @@ solutions: https://drive.google.com/file/d/1MgdoaJ6f3RGrg35oMm9nit52-XnZ2BPR/vie
     - ... in a low-stakes quiz, with plenty of time for you to make any needed adjustments before the first exam
 
 + This is a take home quiz:
-    - The quiz will become available at 6am on Sunday, August 30th.
-    - The quiz must be completed by 6pm on Tuesday, September 1st.
+    - The quiz will become available at **6:00am** on **Sunday, September 6**.
+    - The quiz must be completed by **6:00pm** on **Wednesday, September 9**.
 
 + The quiz is completed using a combination of [WeBWorK](https://zeno.boisestate.edu/webwork2) and [BlackBoard](https://blackboard.boisestate.edu).
     - The quiz questions are given in WeBWorK. Submit your answers in WeBWorK.
@@ -38,8 +37,8 @@ solutions: https://drive.google.com/file/d/1MgdoaJ6f3RGrg35oMm9nit52-XnZ2BPR/vie
       Then save the result as a flattened .pdf document.
     - **Typesetting Software:** Use computer software such as LaTeX or Word+MathType to type up the solutions,
       then save the result as a .pdf document.
-    - Solutions should be a single .pdf file with a filename of the form `333-quiz01-yourlastname.pdf`,
-      for example `333-quiz01-Teitler.pdf`.
+    - Solutions should be a single .pdf file with a filename of the form `333-quiz02-yourlastname.pdf`,
+      for example `333-quiz02-Teitler.pdf`.
 
 + When working on the quiz **students may:**
     - Discuss the questions with other students and/or the learning assistant.
