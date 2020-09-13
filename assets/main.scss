@@ -17,6 +17,13 @@ header.post-header {
   margin-bottom: 0;
 }
 
+ol ol {
+  list-style-type: lower-alpha;
+}
+ol ol ol {
+  list-style-type: lower-roman;
+}
+
 dl {
   display: grid;
   grid-gap: 1em;
