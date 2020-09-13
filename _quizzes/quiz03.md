@@ -75,7 +75,7 @@ Having single files makes it easier for me, but I can handle multiple files if n
 
 # Quiz 3 problems
 
-1.  In WeBWorK you will be given a random differential equation of the form $\frac{dy}{dt}=f(t,y)$.
+1.  In WeBWorK you will be given a random differential equation of the form $$\frac{dy}{dt}=f(t,y)$$.
     You do not need to show any work on this problem.
     Instead follow the instructions below to create a slope field with multiple integral curves,
     and submit the final graph as your work.
@@ -85,8 +85,8 @@ Having single files makes it easier for me, but I can handle multiple files if n
         
         * Use the default "One ODE" tab that is selected.
         * Use the `Variables:` drop down menu to choose `dy/dt`.
-        * Set the range of the independent variable, \(t\), to the interval given in WeBWorK.
-        * Set the range of the dependent variable, \(y\), to the interval given in WeBWorK.
+        * Set the range of the independent variable, \\(t\\), to the interval given in WeBWorK.
+        * Set the range of the dependent variable, \\(y\\), to the interval given in WeBWorK.
         * Enter in the DE in the input box for `dy/dt=`
     
     2.  Using the "Plot Numerical Solution Curves" option,
@@ -95,8 +95,8 @@ Having single files makes it easier for me, but I can handle multiple files if n
         Include enough integral curves to highlight the behavior of different solutions.
         
     3.  Answer the limit questions in WeBWorK that describe the behavior
-        of different solutions as \( t \to \infinity \).
-        *Answers will either be integers (no decimals/fractions) or \( \pm \infinity \).*
+        of different solutions as \\( t \to \infty \\).
+        *Answers will either be integers (no decimals/fractions) or \\( \pm \infty \\).*
         
     4.  Provide a copy of the graph you created as follows:
 
@@ -108,18 +108,18 @@ Having single files makes it easier for me, but I can handle multiple files if n
 
 2.  The Logistic Growth differential equation is
 
-    \[ \frac{dP}{dt} = rP \left( 1 - \frac{P}{M} \right) \]
+    \\[ \frac{dP}{dt} = rP \left( 1 - \frac{P}{M} \right) \\]
 
-    where \( P \) is the population size, \( t \) is time,
-    \( r > 0 \) is the intrinsic population growth rate parameter,
-    and \( M > 0 \) is the carrying capacity parameter.
+    where \\( P \\) is the population size, \\( t \\) is time,
+    \\( r > 0 \\) is the intrinsic population growth rate parameter,
+    and \\( M > 0 \\) is the carrying capacity parameter.
 
-    1.  Show that the function \( P(t) = M \left( 1 + Ce^{-rt} \right) \)
+    1.  Show that the function \\( P(t) = M \left( 1 + Ce^{-rt} \right) \\)
         is a solution to this differential equation by showing that the LHS and RHS
         both simplify to the same expression.
     
     2.  A rabbit population is growing according to the logistic growth equation.
-        Use the randomized values of the parameters \( r \) and \( M \)
+        Use the randomized values of the parameters \\( r \\) and \\( M \\)
         in WeBWorK to to find the particular solution for the stated initial condition.
         Then answer the final question in WeBWorK about this rabbit population.
 
