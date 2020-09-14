@@ -3,7 +3,7 @@ layout: page
 title: Quiz 1
 quiznum: 1
 duedate: 2020-09-01
-solutions: https://drive.google.com/file/d/1MgdoaJ6f3RGrg35oMm9nit52-XnZ2BPR/view?usp=sharing
+solutions: https://zeno.boisestate.edu/classes/m333-fall2020/solutions/quiz01-solutions.pdf
 ---
 
 

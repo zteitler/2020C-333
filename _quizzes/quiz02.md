@@ -3,6 +3,7 @@ layout: page
 title: Quiz 2
 quiznum: 2
 duedate: 2020-09-09
+solutions: https://zeno.boisestate.edu/classes/m333-fall2020/solutions/quiz02-solutions.pdf
 ---
 
 
