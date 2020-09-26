@@ -17,8 +17,8 @@ mathjax: true
 
 
 + This is a take home quiz:
-    - The quiz will become available at **6:00am** on **Sunday, September 27**.
-    - The quiz must be completed by **6:00pm** on **Wednesday, September 30**.
+    - The quiz will become available at **9:00am** on **Sunday, September 27**.
+    - The quiz must be completed by **9:00pm** on **Wednesday, September 30**.
     - The close time is strict.
 
 + The quiz is completed using a combination of [WeBWorK](https://zeno.boisestate.edu/webwork2) and [BlackBoard](https://blackboard.boisestate.edu).
