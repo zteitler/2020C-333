@@ -17,11 +17,21 @@ header.post-header {
   margin-bottom: 0;
 }
 
+ul ul {
+  li:last-child {margin-bottom: 1em}
+}
+
+ul ul ul {
+  li:last-child {margin-bottom: 1em}
+}
+
 ol ol {
   list-style-type: lower-alpha;
+  li:last-child {margin-bottom: 1em}
 }
 ol ol ol {
   list-style-type: lower-roman;
+  li:last-child {margin-bottom: 1em}
 }
 
 dl {
@@ -43,6 +53,7 @@ header.site-header {
 }
 a {
   color: #0169A4;
+  text-decoration: underline;
 }
 a:visited {
   color: #09347A;

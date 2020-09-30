@@ -3,6 +3,7 @@ layout: page
 title: Quiz 4
 quiznum: 4
 duedate: 2020-09-23
+solutions: https://zeno.boisestate.edu/classes/m333-fall2020/solutions/quiz04-solutions.pdf
 mathjax: true
 ---
 

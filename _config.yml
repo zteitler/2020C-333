@@ -24,13 +24,10 @@ header_pages:
   - syllabus.md
   - calendar.md
   - lessons.md
-  - quizzes.md
-  - exams.md
+  - quizzesexams.md
 
 collections:
   quizzes:
-    output: true
-  exams:
     output: true
 
 # Exclude from processing.
