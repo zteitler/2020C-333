@@ -5,6 +5,7 @@ lessons: "https://zeno.boisestate.edu/classes/m333-fall2020/lessons.html"
 ---
 
 # Exam 1 Study Guide
+{:.no_toc}
 
 * TOC
 {:toc}
