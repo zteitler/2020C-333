@@ -101,7 +101,6 @@ For exam _content_, see the [Exam 1 Study Guide](exam1-studyguide.html).
 
 + When working on the take home section __students may:__
 
-  + Discuss the questions with other students and/or the learning assistant.
   + Ask their instructor for help.
   + Use any of the course resources, notes, videos, etc. on the course
     website, or similar style resources.
@@ -109,6 +108,7 @@ For exam _content_, see the [Exam 1 Study Guide](exam1-studyguide.html).
 
 + When working on the take home section __students may not:__
 
+  + Discuss the questions with other students and/or the learning assistant.
   + Ask any person to complete any part of the exam for them.
   + Copy another persons work and present it as their own.
   + Explicitly look up the solution to any problem online.
@@ -116,3 +116,9 @@ For exam _content_, see the [Exam 1 Study Guide](exam1-studyguide.html).
   + Any other infraction of the [student code of conduct](
     https://www.boisestate.edu/policy/student-affairs/code-of-conduct/).
 
+**NOTE:** Other sections of the course may follow different policies,
+including allowing students to work together or communicate with their LAs.
+For this class, please **DO NOT** work together or communicate with LAs.
+You *do* have permission to communicate with the instructor.
+Please do not join conversations about the exam among students in other sections.
+*I deeply apologize for any confusion about this.*
