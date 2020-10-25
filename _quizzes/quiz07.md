@@ -2,7 +2,7 @@
 layout: page
 title: Quiz 7
 quiznum: 7
-duedate: 2020-10-28
+duedate: 2020-10-29
 mathjax: true
 ---
 
@@ -18,7 +18,7 @@ mathjax: true
 
 + This is a take home quiz:
     - The quiz will become available at **9:00am** on **Sunday, October 25**.
-    - The quiz must be completed by **9:00pm** on **Wednesday, October 28**.
+    - The quiz must be completed by **9:00pm** on **Thursday, October 29**.
     - The close time is strict.
 
 + The quiz is completed using a combination of [WeBWorK](https://zeno.boisestate.edu/webwork2) and [BlackBoard](https://blackboard.boisestate.edu).
@@ -66,6 +66,9 @@ mathjax: true
 # Quiz 7 problems
 
 This quiz has 3 questions. For each one, show your work.
+
+*Note:* This quiz overlaps with the Spring-Mass Systems homework.
+It might be helpful to do that homework first, before this quiz.
 
 
 Please contact me on Discord or by email if you have any questions or if any tech issues come up.
