@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Quiz 7
-quiznum: 7
-duedate: 2020-10-29
+title: Quiz 8
+quiznum: 8
+duedate: 2020-12-09
 mathjax: true
 ---
 
 
-## Quiz 7 Instructions
+## Quiz 8 Instructions
 
 + The purpose of this quiz is to support your learning by
     - offering you an opportunity to demonstrate your mastery of course material
@@ -17,8 +17,8 @@ mathjax: true
 
 
 + This is a take home quiz:
-    - The quiz will become available at **9:00am** on **Sunday, October 25**.
-    - The quiz must be completed by **9:00pm** on **Thursday, October 29**.
+    - The quiz will become available at **9:00am** on **Friday, December 4**.
+    - The quiz must be completed by **9:00pm** on **Wednesday, December 9**.
     - The close time is strict.
 
 + The quiz is completed using a combination of [WeBWorK](https://zeno.boisestate.edu/webwork2) and [BlackBoard](https://blackboard.boisestate.edu).
@@ -63,12 +63,11 @@ mathjax: true
     - Commit any other infraction of the [Student Code of Conduct](https://www.boisestate.edu/policy/student-affairs/code-of-conduct/).
 
 
-# Quiz 7 problems
+# Quiz 8 problems
 
-This quiz has 3 questions. For each one, show your work.
+This quiz has 2 questions. For each one, show your work.
+See also [Jaimos's instructions](https://zeno.boisestate.edu/classes/m333-fall2020/quizzes/quiz09-instructions.html#quiz-9-problems).
 
-*Note:* This quiz overlaps with the Spring-Mass Systems homework.
-It might be helpful to do that homework first, before this quiz.
 
 
 Please contact me on Discord or by email if you have any questions or if any tech issues come up.
