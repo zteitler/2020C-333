@@ -32,3 +32,4 @@ title: Quizzes and Exams
 | :--- | :--- | :--- | :--- |
 | **Exam 1** | Monday, October 5, 2020 | [Exam 1 Instructions]({{ "/exams/exam1-instructions" | relative_url }}) | [Exam 1 Study Guide]({{ "/exams/exam1-studyguide" | relative_url }}) |
 | **Exam 2** | Monday, November 9, 2020 | [Exam 2 Instructions]({{ "/exams/exam2-instructions" | relative_url }}) | [Exam 2 Study Guide]({{ "/exams/exam2-studyguide" | relative_url }}) |
+| **Final Exam** | Wednesday, December 16, 2020 | [Final Exam Instructions]({{ "/exams/finalexam-instructions" | relative_url }}) | [Final Exam Study Guide](https://zeno.boisestate.edu/classes/m333-fall2020/exams/final-studyguide.html) |

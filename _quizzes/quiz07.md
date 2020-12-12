@@ -7,7 +7,7 @@ mathjax: true
 ---
 
 
-## Quiz 6 Instructions
+## Quiz 7 Instructions
 
 + The purpose of this quiz is to support your learning by
     - offering you an opportunity to demonstrate your mastery of course material
